@@ -1,0 +1,15 @@
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/bin/Debug/net6.0/getStartedDebugging
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/bin/Debug/net6.0/getStartedDebugging.deps.json
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/bin/Debug/net6.0/getStartedDebugging.runtimeconfig.json
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/bin/Debug/net6.0/getStartedDebugging.dll
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/bin/Debug/net6.0/getStartedDebugging.pdb
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.csproj.AssemblyReference.cache
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.AssemblyInfoInputs.cache
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.AssemblyInfo.cs
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.csproj.CoreCompileInputs.cache
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.dll
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/obj/Debug/net6.0/refint/getStartedDebugging.dll
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.pdb
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/obj/Debug/net6.0/getStartedDebugging.genruntimeconfig.cache
+/home/curtrick/code_401/Labs/-Lab01b-PracticeDebugging/getStartedDebugging/obj/Debug/net6.0/ref/getStartedDebugging.dll
